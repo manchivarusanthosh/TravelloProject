@@ -1,0 +1,15 @@
+.signup-card{
+    
+    padding:80px;
+    
+    margin:30px;
+    border-radius: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+@media (min-width:768px) {
+    .signup-card{
+        width: 80vh;
+        margin: auto;
+        }
+}
